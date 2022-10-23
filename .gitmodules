@@ -1,0 +1,2 @@
+[submodule "webrtc"]
+	url = git@github.com:libmeta/owt-deps-webrtc.git
